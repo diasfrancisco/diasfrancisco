@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Dias</h1>
 <h3 align="center">A passionate Machine Learning Engineer from the UK</h3>
 
-- 🔭 I’m currently working on [a recommendation system based off Facebook's Marketplace](https://github.com/diasfrancisco/Facebook-Marketplaces-Recommendation-Ranking-System.git)
+- 🔭 I’m currently working on [a ranking system based off Facebook's Marketplace](https://github.com/diasfrancisco/Facebook-Marketplaces-Recommendation-Ranking-System.git)
 
 - 🌱 I’m currently learning **PyTorch and Hadoop**
 
